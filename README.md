@@ -9,7 +9,7 @@
   <i>"Keep calm and use stack overflow"</i>
   <br><br>
   <img src="https://c.tenor.com/p_YWrWeyHMkAAAAC/beaker-muppet.gif" height="180" />
-  <p>🌹🌼🌷🌻  ✨ follow my team ✨  🌹🌼🌷🌻</p>  
+  <p>🌹🌼🌷🌻  ✨ 𝒯𝑒𝒶𝓂 ✨  🌹🌼🌷🌻</p>  
   
   ![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)
   ![Github Badge](https://img.shields.io/badge/-@Isabela-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Isabela-CP)
