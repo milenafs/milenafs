@@ -7,7 +7,7 @@
   <img src="http://giphygifs.s3.amazonaws.com/media/7kn27lnYSAE9O/giphy.gif" height="150" />
   <br><br>
   <i>"Keep calm and use stack overflow"</i>
-  <br><br><br><br>
+  <br><br>
   <img src="https://c.tenor.com/p_YWrWeyHMkAAAAC/beaker-muppet.gif" height="180" />
   <p>🌹🌼🌷🌻  ✨ follow my team ✨  🌹🌼🌷🌻</p>  
   
