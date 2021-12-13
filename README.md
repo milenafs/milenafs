@@ -6,17 +6,10 @@
   <img src="https://68.media.tumblr.com/a3fd2363d4983d2ecad7fcd3fc495cdb/tumblr_nzvdibMPH81qkejxno1_250.gif" height="150" />
   <img src="http://giphygifs.s3.amazonaws.com/media/7kn27lnYSAE9O/giphy.gif" height="150" />
   <br><br>
-  <i>"Keep calm and use stack overflow"</i>
-  <br><br>
-  <img src="https://c.tenor.com/p_YWrWeyHMkAAAAC/beaker-muppet.gif" height="140" />
-  <img src="https://c.tenor.com/p_YWrWeyHMkAAAAC/beaker-muppet.gif" height="140" />
-  <img src="https://c.tenor.com/p_YWrWeyHMkAAAAC/beaker-muppet.gif" height="140" />
   <p>🌹🌼🌷🌻  ✨ 𝒯𝑒𝒶𝓂 ✨  🌹🌼🌷🌻</p>  
   
   ![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)
   ![Github Badge](https://img.shields.io/badge/-@Isabela-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Isabela-CP)
-  
-  
 </div>
 
 
