@@ -1,4 +1,4 @@
-## Hello World! It's Milena! <img src="https://media0.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b761132d1ab1e674d2e27108a3b2ac759907f3e88d521&rid=giphy.gif&ct=s" width="25"> 
+## Hello World! I'm Milena! <img src="https://media0.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b761132d1ab1e674d2e27108a3b2ac759907f3e88d521&rid=giphy.gif&ct=s" width="25"> 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/milenafs)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milena-furuta-shishito-300ab3202/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:milenafurutashishito@gmail.com)
